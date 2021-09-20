@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi! 👋
 
-<!--
-**LukaMgana/LukaMgana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My dos:
+
+- 🔭 I’m currently working on React-Typescript
+- 🌱 I’m currently learning Docker
+- 👯 I’m looking to collaborate on FARM stack Development, Django and Kivy
+- 💬 Ask me about FARM stack, Django, Kivy and UI/UX Design
+- 📫 How to reach me: lukemgana@gmail.com
+- 😄 Pronouns: Luke
+- ⚡ Fun fact: Snitches are big and cherish funs of yours
+
