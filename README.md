@@ -25,5 +25,5 @@ My dos:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmgana&show_icons=true&theme=radical&border_color=141414" />
 </a>
 <a href="https://github.com/lucasmgana/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmgana&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebujordan&layout=compact" />
 </a>
