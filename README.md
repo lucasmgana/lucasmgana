@@ -10,8 +10,7 @@ My dos:
 - 💬 Ask me about FARM stack, Django FullStack, React Native and UI/UX Design
 - 📫 How to reach me: lukemgana@gmail.com
 - 😄 Pronouns: Luke
-- ⚡ Fun fact: Snitches are big and cherish funs of yours
-
+- ⚡ Fun fact: Snitches should be genuinely loved
 
 ### Code Your Future With
 
@@ -25,5 +24,5 @@ My dos:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasmgana&show_icons=true&theme=radical&border_color=141414"&name=lucas />
 </a>
 <a href="https://github.com/lucasmgana/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmgana&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebujordan&layout=compact" />
 </a>
