@@ -12,3 +12,18 @@ My dos:
 - 😄 Pronouns: Luke
 - ⚡ Fun fact: Snitches are big and cherish funs of yours
 
+
+### Code Your Future With
+
+✨ # OntekDevs.
+✨ # Swahili Developers.
+✨ # Thinkupafrica.
+✨  PandaTech.
+
+
+<a href="https://github.com/lucasmgana/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmgana&show_icons=true&theme=radical&border_color=141414" />
+</a>
+<a href="https://github.com/lucasmgana/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmgana&layout=compact" />
+</a>
