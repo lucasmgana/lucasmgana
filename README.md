@@ -22,7 +22,7 @@ My dos:
 
 
 <a href="https://github.com/lucasmgana/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalebu&show_icons=true&theme=radical&border_color=141414" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalebu&show_icons=true&theme=radical&border_color=141414"&name=lucas />
 </a>
 <a href="https://github.com/lucasmgana/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebujordan&layout=compact" />
