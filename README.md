@@ -22,8 +22,8 @@ My dos:
 
 
 <a href="https://github.com/lucasmgana/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mgana&show_icons=true&theme=radical&border_color=141414"&name=lucas />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luca&show_icons=true&theme=radical&border_color=141414"&name=lucas />
 </a>
 <a href="https://github.com/lucasmgana/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebu&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiangolo&layout=compact" />
 </a>
