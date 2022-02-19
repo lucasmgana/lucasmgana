@@ -1,16 +1,13 @@
-### Hi! 👋
+### Hi! 👋, I'm Lucas Mgana
 
+RAD {React, API and Django} Fullstack Developer and UI/UX Designer
 
+### My dos:
 
-My dos:
+- 🔭 Works with React.JS, React Native, Django & REST API
 
-- 🔭 I’m currently working on React-Typescript
-- 🌱 I’m currently learning Docker
-- 👯 I’m looking to collaborate on FARM stack Development, Django and Kivy
-- 💬 Ask me about FARM stack, Django FullStack, React Native and UI/UX Design
-- 📫 How to reach me: lukemgana@gmail.com
-- 😄 Pronouns: Luke
-- ⚡ Fun fact: Snitches should be genuinely loved
+### ⚡ Fun fact:
+Snitches should be genuinely loved
 
 
   
