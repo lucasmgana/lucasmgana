@@ -54,13 +54,6 @@ My dos:
 
 
 
-
-
-<br>
-<h2 align="left">Support:</h2>
-<p><a href="https://www.buymeacoffee.com/lucasmgana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="lucasmgana" /></a></p><br><br><br><br>
-<br>
-
 <a href="https://github.com/lucasmgana/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmgana&show_icons=true&theme=radical&border_color=141414&dispayname=lucas" />
 </a>
@@ -73,3 +66,8 @@ My dos:
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mgana)
 [![General badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lucasmgana)
 [![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmgana/)
+
+
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmgana&" alt="lucasmgana" />
+
