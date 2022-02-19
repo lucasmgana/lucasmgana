@@ -11,7 +11,7 @@ Snitches should be genuinely loved
 
 
   
-###<h2 align="left">Contact Me:</h2>
+### <h2 align="left">Contact Me:</h2>
 
 [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](MailTo:lukemgana@gmail.com)
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mgana)
