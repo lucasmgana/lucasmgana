@@ -21,7 +21,7 @@ My dos:
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmgana&label=Visitored%20Today&color=0e75b6&style=flat" alt="lucasmgana" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmgana&label=Today%20Visitors&color=0e75b6&style=flat&initialCount=234K" alt="lucasmgana" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasmgana" alt="lucasmgana" /></a> </p>
 
