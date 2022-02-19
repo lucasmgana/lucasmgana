@@ -12,6 +12,16 @@ My dos:
 - 😄 Pronouns: Luke
 - ⚡ Fun fact: Snitches should be genuinely loved
 
+
+  
+###<h2 align="left">Contact Me:</h2>
+
+[![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](MailTo:lukemgana@gmail.com)
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mgana)
+[![General badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lucasmgana)
+[![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmgana/)
+
+
 ### Code Your Future With
 
 ✨ # OntekDevs.
@@ -58,14 +68,6 @@ My dos:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmgana&show_icons=true&theme=radical&border_color=141414&dispayname=lucas" />
 </a>
 
-
-  
-<h2 align="left">Contact Me:</h2>
-
-[![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](MailTo:lukemgana@gmail.com)
-[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mgana)
-[![General badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lucasmgana)
-[![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmgana/)
 
 
 
