@@ -67,5 +67,5 @@ Snitches should be genuinely loved
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmgana&" alt="lucasmgana" />
 
-<!-- <a href="https://github.com/lucasmgana/README.md"><img alt="Lucasmgana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmgana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
- -->
+<a href="https://github.com/lucasmgana/README.md"><img alt="Lucasmgana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmgana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
