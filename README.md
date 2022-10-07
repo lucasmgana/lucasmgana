@@ -19,12 +19,13 @@ Snitches should be genuinely loved
 [![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmgana/)
 
 
-### Code Your Future With
-
-✨ # OntekDevs.
+### Works Under
+✨ # Onteki Labs.
 ✨ # Swahili Developers.
+✨ # Taaluma Group Ltd.
 ✨ # Thinkupafrica.
-✨  PandaTech.
+✨ # GetCore Group Ltd.
+✨ # PandaTech.
 
 
 
