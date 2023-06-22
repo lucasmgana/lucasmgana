@@ -1,6 +1,6 @@
 ### Hi! 👋, I'm Lucas Mgana
 
-RAD {React, API and Django} Fullstack Developer and UI/UX Designer
+RAD {React, API and Django} Developer and UI/UX Designer
 
 ### My dos:
 
